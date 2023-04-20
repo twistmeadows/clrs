@@ -2,6 +2,9 @@
 <project version="4">
   <component name="CompilerConfiguration">
     <bytecodeTargetLevel>
+      <module name="algorithm" target="1.8" />
+      <module name="algorithm.main" target="1.8" />
+      <module name="algorithm.test" target="1.8" />
       <module name="leetcode" target="1.8" />
       <module name="leetcode.main" target="1.8" />
       <module name="leetcode.test" target="1.8" />
